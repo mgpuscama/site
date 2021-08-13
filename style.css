@@ -496,10 +496,10 @@ h2{
 		height: 200px;
 	}
 	#statlearn1{
-	width: 400px;
+	width: 350px;
 	}
 	#statlearn2{
-	width: 400px;
+	width: 350px;
 	}
 	#l2dh-description{
 		width: 350px;
@@ -518,6 +518,10 @@ h2{
 	font-size: 14px;
 	text-align: left;
 	margin-left: 10px;
+	}
+	#hobbies-section p{
+	padding: 0px;
+	margin: 10px;
 	}
 }
 
